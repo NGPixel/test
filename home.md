@@ -12,6 +12,14 @@ Nullam posuere pharetra elit, non mollis lectus pharetra non. Praesent ac nibh n
 
 Morbi euismod nulla in eros dapibus hendrerit. Nam efficitur odio arcu, eu lobortis arcu aliquam eu. In et sagittis arcu. Suspendisse vel vulputate libero. Ut finibus sed elit a hendrerit. Nunc sodales, lectus et efficitur suscipit, nibh urna ultricies velit, eget accumsan metus elit in sem. Mauris vitae mauris ut mauris tristique ultricies sit amet et neque.
 
+```js
+var bob = 'SUPER TEST';
+
+function dude() {
+	return 1 + 1;
+}
+```
+
 ### Sub-sub-header
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere laoreet tortor, id convallis tellus consequat a. Nullam dictum justo in mauris posuere pellentesque. Phasellus et fermentum quam. Nullam commodo dapibus dolor eget malesuada. Pellentesque quis leo lorem. Curabitur nisl tortor, lobortis nec risus sed, blandit congue ante. In sit amet magna non orci tincidunt pulvinar. Donec luctus mi ac orci rhoncus tincidunt et sollicitudin tellus. Maecenas dapibus consectetur ex, non fringilla lorem.
