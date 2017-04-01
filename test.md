@@ -2,5 +2,5 @@
 <!-- SUBTITLE: A quick summary of Test -->
 
 # Header
-[x] Dude
-[ ] Super
+- [x] Dude
+- [ ] Super
