@@ -13,11 +13,21 @@ Nullam posuere pharetra elit, non mollis lectus pharetra non. Praesent ac nibh n
 Morbi euismod nulla in eros dapibus hendrerit. Nam efficitur odio arcu, eu lobortis arcu aliquam eu. In et sagittis arcu. Suspendisse vel vulputate libero. Ut finibus sed elit a hendrerit. Nunc sodales, lectus et efficitur suscipit, nibh urna ultricies velit, eget accumsan metus elit in sem. Mauris vitae mauris ut mauris tristique ultricies sit amet et neque.
 
 ```js
-var bob = 'SUPER TEST';
-
-function dude() {
-	return 1 + 1;
+function $initHighlight(block, cls) {
+  try {
+    if (cls.search(/\bno\-highlight\b/) != -1)
+      return process(block, true, 0x0F) +
+             ` class="${cls}"`;
+  } catch (e) {
+    /* handle exception */
+  }
+  for (var i = 0 / 2; i < classes.length; i++) {
+    if (checkCondition(classes[i]) === undefined)
+      console.log('undefined');
+  }
 }
+
+export  $initHighlight;
 ```
 
 ### Sub-sub-header
