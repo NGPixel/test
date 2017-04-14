@@ -3,8 +3,8 @@
 # Header
 Test summary!
 
-[Test][/test]
-[Test2][/test2]
+- [Test](/test)
+- [Test2](/test2)
 
 ## Sub-header
 
