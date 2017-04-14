@@ -3,6 +3,9 @@
 # Header
 Test summary!
 
+[Test][/test]
+[Test2][/test2]
+
 ## Sub-header
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere laoreet tortor, id convallis tellus consequat a. Nullam dictum justo in mauris posuere pellentesque. Phasellus et fermentum quam. Nullam commodo dapibus dolor eget malesuada. Pellentesque quis leo lorem. Curabitur nisl tortor, lobortis nec risus sed, blandit congue ante. In sit amet magna non orci tincidunt pulvinar. Donec luctus mi ac orci rhoncus tincidunt et sollicitudin tellus. Maecenas dapibus consectetur ex, non fringilla lorem.
