@@ -8,6 +8,14 @@ Test summary!
 
 ## Sub-header
 
+
+```liquid
+{% for language in languages %}
+<a href="{{ language.switch_url }}"><img src="{{ language.icon_url }}" alt="{{ language.title }}" title="{{ language.title }}"></a>
+{% endfor %}
+```
+
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere laoreet tortor, id convallis tellus consequat a. Nullam dictum justo in mauris posuere pellentesque. Phasellus et fermentum quam. Nullam commodo dapibus dolor eget malesuada. Pellentesque quis leo lorem. Curabitur nisl tortor, lobortis nec risus sed, blandit congue ante. In sit amet magna non orci tincidunt pulvinar. Donec luctus mi ac orci rhoncus tincidunt et sollicitudin tellus. Maecenas dapibus consectetur ex, non fringilla lorem.
 
 Nullam posuere pharetra elit, non mollis lectus pharetra non. Praesent ac nibh nunc. Donec nec sem et lorem dignissim egestas ac in felis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet blandit urna, sit amet accumsan eros. Fusce commodo, nunc id finibus sodales, nisl dui aliquam nisi, at accumsan ante diam in sapien. Donec mollis, massa at placerat ultricies, augue mauris convallis ante, eget molestie sem nisl non est.
