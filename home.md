@@ -9,7 +9,7 @@ Test summary!
 ## Sub-header
 
 
-```liquid
+```html
 {% for language in languages %}
 <a href="{{ language.switch_url }}"><img src="{{ language.icon_url }}" alt="{{ language.title }}" title="{{ language.title }}"></a>
 {% endfor %}
