@@ -7,7 +7,7 @@ Test summary!
 - [Test2](/test2)
 
 ## Sub-header
-
+![Wikijs Logo W](/uploads/wikijs-logo-w.png "Wikijs Logo W")
 
 ```html
 {% for language in languages %}
