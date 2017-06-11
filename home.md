@@ -6,7 +6,7 @@ Test summary!
 - [Test](/test)
 - [Test2](/test2)
 
-Example: $ M = \left[\begin{array} a&b&1 \ c&d&2 \ e&f&3\end{array}\right] $
+Example: $M = \left[\begin{array} a&b&1 \ c&d&2 \ e&f&3\end{array}\right]$
 
 ## Sub-header
 ![Wikijs Logo W](/uploads/wikijs-logo-w.png "Wikijs Logo W")
