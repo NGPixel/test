@@ -13,9 +13,19 @@ Test summary!
                 but it won't
 ```
 
+> Default
 
+> Info
+{.is-info}
 
+> Success
+{.is-success}
 
+> Warning
+{.is-warning}
+
+> Danger
+{.is-danger}
 
 Example: $M = 2n + 5$
 
