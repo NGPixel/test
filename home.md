@@ -2,7 +2,7 @@
 <!-- SUBTITLE: A quick summary of Home -->
 # Header
 Test summary!
-Test
+Test[^1]
 
 - [Test](/test)
 - [Test2](/test2)
@@ -28,6 +28,8 @@ Test
 {.is-danger}
 
 Example: $M = 2n + 5$
+
+[^1]: Super description intense
 
 ## Sub-header
 ![Wikijs Logo W](/uploads/wikijs-logo-w.png "Wikijs Logo W")
