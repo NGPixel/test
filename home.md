@@ -1,4 +1,4 @@
-<!-- TITLE: Home -->
+<!-- TITLE: Home 2 -->
 <!-- SUBTITLE: A quick summary of Home -->
 # Header
 Test summary!
